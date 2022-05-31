@@ -18,6 +18,9 @@ Crowdmapping tool (English version) is available at the following address: http:
 
 ## What is included in the repository
 
+![image](https://user-images.githubusercontent.com/10100274/171258273-e2d22c80-ea78-490b-a856-2642a3127ea7.png)
+
+
 ## Software requierements
 
 - **PHP** - to manage database connection and authentication and server side translation using: **php-i18n** https://github.com/Philipp15b/php-i18n
