@@ -1,0 +1,352 @@
+{
+  "@metadata": {
+    "authors": [
+      "MRZ"
+    ],
+    "last-updated": "2019-08-05",
+    "locale": "en",
+    "message-documentation": "qqq"
+  },
+"separator1":"THIS IS JUST A SEPARATOR*******************INDEX PAGE************************************",
+
+"intro_salutation": "<b>Dear User</b>,",
+"intro_visible": "Thank you for joining us on the TeRRIFICA crowdmapping website. This website is built to collect your experiences and opinions where in your local environment climate change comes alive and is tangible. We want you to put a mark in this interactive map of your region and ask you to explain why you decided to mark this place as good or bad.",
+"intro_hidden": "There is no right or wrong about places you identified as climate trouble spots. Taking part in the activities is not a test. There are no right or wrong answers in any interview or opinion you are asked to give. It is all based on your ideas about what you sense as places where climate change can be locally observed or felt and what you think might be important for the future to mitigate these effects on the local level.,",
+
+"card1_title":"Crowdmapping tool",
+"card2_title":"Map of the results",
+"card3_title":"Background info",
+
+"card1_text":"With this tool you can contribute your local knowledge by adding points to the map",
+"card2_text":"You can see what others have contributed so far to the project.",
+"card3_text":"Click here if you want to know more about the project and climate change",
+
+"card1_button":"Contribute!",
+"card2_button":"See the map!",
+"card3_button":"Find Out More!",
+
+"attribution":"TeRRIFICA project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No.824489",
+"legal_button":"Legal notice",
+"cookies_button":"Cookies policy",
+"privacy_button":"Privacy policy",
+"cookies_question":"Do you like cookies? We use cookies to ensure you get the best experience on our website.",
+"agree":"I agree",
+
+"separator2":"THIS IS JUST A SEPARATOR*******************Background PAGE************************************",
+
+"bg_main_title":"Background information",
+"bg_title_1":"Crowd-mapping survey dealing with climate change – what for?",
+"bg_title_2":"Climate, climate change, adaptation... - basic definitions for better understanding of our aspirations",
+"bg_title_3":"The role of green, blue and grey infrastructure in mitigation and adaptation to climate change",
+"bg_title_4":"More information can be found here",
+
+"bg_text_1":"One of the TeRRIFICAs aims is to recognize and to gather  citizen knowledge and findings on climate change challenges in six pilot regions: in Spain, Germany, France, Serbia, Poland and Belarus. The selected pilot regions cover the diversity of climate change mitigation and adaptation approaches in Central-South, East-West, urban-rural, EU- non-EU settings. The data collection from such different regions will contribute to the identification of relevant variables and factors affecting the effectiveness of climate action. Findings will be crucial for the development of Climate Change Adaptation Plans, that should lead finally to institutional and governance changes... ",
+"bg_text_2":"<p >The crowdmapping method answers above mentioned needs by giving the possibility to involve any partner/resident/stakeholder in the survey dedicated to the identification of green, grey and blue infrastructure in the regions relevant to climate change challenges and solutions in territorial context. The ecosystems in urban areas are considered as green-blue infrastructure that has a great potential for adaptation and mitigation to climate change.  These nature-based solutions can support technical based solutions perceived as grey infrastructure.</p><p>Mapping and assessment both types of infrastructure in different regions are crucial for further findings in TeRRIFICA action. During the survey participants will be asked to indicate two types of significant  places on the map in terms of chosen climate changes facets, like air temperature, water circulation, wind, air quality and soil. The first place should be a good example of efficient activities, or where we feel simply good because of particular circumstances described in the study. The second type of place should introduce an negative example, such as sites where climate change causes negative effects, or sites where we do not feel well or comfortable due to any reasons defined in the survey. The person participating in the study will also be asked to recommend solutions improving the negative valuated status quo. Participants can add own comment and can send a photo illustrating the relevant place or issue. </p>",
+"bg_text_3":"<b>Climate</b> in a narrow sense is usually defined as typical sequence of weather during the year, or more rigorously, as the statistical description in terms of the mean and variability of relevant features over a period of time ranging from months to thousands or millions of years. The classical period for averaging these variables is 30 years, as defined by the World Meteorological Organization. The most often used variables are temperature, precipitation, and wind. Climate in a wider sense is the state, including a statistical description, of the climate system (IPCC 2012). The basic factors affecting the climate of the Earth include: solar activity, continental layout, thickness of snow and ice cover, volcanic activity, concentration of aerosols in the atmosphere and emission of greenhouse gases (forest fires, methane emissions from decomposition of organic matter, other). Climate on Earth is changing as a result of both natural conditions and processes and human activity causing additional emissions of greenhouse gasses. <b>Climate change</b> refers to a change in the state of the climate that can be identified  (e.g. using statistical tests) by changes in the mean and/or the variability of its properties, and that persists for an extended period, typically decades or longer... ",
+"bg_text_4":" <p> It refers to any change in climate over time, whether due to natural variability or as a result of human activity (IPCC 2012). According to IPCC the average temperature of the Earth's surface as a result of climate change caused by humans has already increased by over 1° C above pre-industrial level. If our global society does not reduce greenhouse gas emissions quickly in the 2030s, the temperature rise may reach 1.5 ° C, up to 2100 above 4 ° C, and then even 2-3 times as much (IPCC 2018). There are two kinds of reaction strategies for the climate change: mitigation or/and adaptation to climate change. Adaptation means anticipating the adverse effects of climate change and taking appropriate action to prevent or minimise the damage they can cause, or taking advantage of opportunities that may arise. Examples of adaptation measures include: using scarce water resources more efficiently; considering fresh air corridors in urban planning to improve the air quality in cities; and setting aside land corridors to help species migrate. <b>Adaptation</b> strategies are needed at all levels of administration: at the local, regional, national, EU and also the international level. Due to the varying severity and nature of climate impacts between regions in Europe, most adaptation initiatives will be taken at the regional or local levels. The ability to cope and adapt also differs across populations, economic sectors and regions within Europe (IPCC 2012, DoA 2018). <b>Mitigation</b> refers to a wide scope of efforts to reduce or even prevent the emission of greenhouse gases. These efforts range from changing consumer behavior to boosting the efficiency of out-dated equipment to the use of more energy-efficient technologies or low technologies and renewable energies. Planning a new city can be a means of mitigation as well as the replacement of an old furnace. This means that mitigation often involves fundamental changes in the way individuals and societies as a whole produce and use energy (IPCC 2012, DoA 2018).</p> <p>Important role in dealing with climate change, especially in adaptation, pay the green, blue and grey infrastructure. <b>Green infrastructure</b> is a strategically planned network of natural and semi-natural areas with other environmental features designed and managed to deliver a wide range of ecosystem services (benefits provided by nature such as food, materials, clean water, clean air, climate regulation, flood prevention, pollination and recreation) (COM, 2013). Green infrastructure in cities is commonly recognized as urban green and blue areas. This is a simplification, because green infrastructure is an ecological system of interconnected green-blue areas where the material and energy flow processes occur. <b>Blue infrastructure</b> is a part of the green infrastructure and can be defined as the all of natural and semi-natural landscape elements of water (water bodies, water courses) that form a blue network. <b>Grey infrastructure</b> can be treated as all other infrastructures that are not visually green or naturally living. It is a man-made system of engineering structures or measures constructed by concrete, metals or other artificial materials that support people's life. Such systems require technical engineering, continual maintenance, and often need to be upgraded. Taking stormwater management as an example, green-blue infrastructure refers to projects that draw from nature to achieve desired results (water outflow by rivers and streams, bio-retention, water retention in lakes, evapotranspiration), while grey infrastructure includes the pipes, pumps, ditches, and detention ponds engineered by people.</p> <p>The physical infrastructure of urbanized areas includes green, blue and grey elements which support/maintain people's life. Although the concepts of green, blue and grey infrastructures have been extensively discussed in the literature, it is difficult to  consider every one separately. This is due to the co-existence of green-grey, blue-grey or green-blue-grey infrastructure, especially in urban areas.</p>",
+"bg_text_5":"The basic way of humans adaptation to climate change is a well-thought-out design of green areas and water bodies (green and blue infrastructure) in the vicinity of residential areas. It allows to reduce pikes of temperature and diminish the exposure to violent weather phenomena. High greenery (parks, tree stands) reduces the surface heating, as it provides a shade that protects against direct solar radiation. Another mechanism for decreasing the air temperature is the water evaporation and plants transpiration, that involve the absorption of heat from the neighbourhood. Water surfaces and plant cover absorb much more of the incoming solar energy (short-wave radiation) than the built-up areas, which rapidly transform solar energy into long-wave radiation that heats the air. The climate changes are expressed also by heavy rains that challenge the capacity of sewage systems. Green areas, especially those shaped in the form of depressions (including forms of bio-retention), can significantly increase the efficiency of taking rainwater. In the river valleys, the maintenance of floodplains plays a very important role. They reduce the height of the flood wave, thus reducing the risk of flooding. At the same time, they are surfaces where groundwater is supplied, which reduces the water deficit in periods of rainfall shortage....",
+"bg_text_6":"<p >The fragmentation of urban development by green and blue infrastructure is favourable for cities ventilation. This prevents the stagnation of the air masses, therefore contributes to the improvement of its quality and reduces the annoyance of heat.</p><p>Unlike adaptation to climate change, which mainly occurs in local dimension, tackling global climate change requires involving all spatial dimensions: from local to global. In particular, they include reduction of greenhouse gases emissions (through improving energy efficiency, increasing the share of energy obtained from renewable sources, reducing energy demand) as well as carbon-binding through vegetation and soil. The burning of fossil fuels has a particularly large share in greenhouse gas emissions. In the case of burning solid fuels (coal, lignite, wood), there is a further effect of putting into the air gaseous and dust pollutants, worsening aero-sanitary conditions. For this reason, projects aimed at improving air quality on a local scale are also important as mitigating climate change. As a form of climate change mitigation, the carbon sequestration in vegetation and soils can be considered. A mature tree is a large reservoir of coal since 50% of the dry mass of a tree is carbon. The role of soils in the storage of coal is little valued. Depending on the type of soil, organic carbon content ranges from less than 1 to 8%. Soil drying promotes the release of carbon to the atmosphere while maintaining moisture in the soil creates conditions for the accumulation of carbon from plant remains. Although green / blue / grey infrastructure may contribute to climate change mitigation, some mitigation solutions, such as reducing car traffic in cities, reducing consumption and waste or short food supply chain may not be covered by this typology but might be included in TeRRIFICA.</p><p>It can be concluded that the parallel development of green, blue and grey infrastructure plays a crucial role in adaptation to climate change, but at the same time, it is important as a form of mitigation. More and more cities see the benefits of shaping urban space in a way that prefers the adoption of nature-based solutions combining green-blue and grey infrastructure. In this context, shaping social awareness, which is the basic condition for effective spatial planning, taking into account the challenges resulting from climate change is invaluable.</p>",
+
+"cookies_main_title":"COOKIES POLICY",
+"cookies_title_1":"INFORMATION ABOUT COOKIES",
+"cookies_title_2":"WHAT ARE COOKIES?",
+"cookies_title_3":"COOKIES AFFECTED BY THE REGULATION AND COOKIES THAT ARE EXEMPT",
+"cookies_text1":"Due to the EU law on personal data  - the General Data Protection Regulation (GDPR), it is mandatory to obtain the express consent of users of all web pages that use unessential cookies before they browse the site.",
+"cookies_text2":"Cookies and other similar technologies such as local shared objects, flash cookies or pixels are tools used by web servers to store and retrieve information about their visitors, and to offer a correctly functioning site. By using these devices, the web server is able to remember some data about its users, such as their preferences for the display of the pages on this server, their name and password, products that interest them most, etc.",
+"cookies_text3":"According to the EU directive, cookies that require informed consent from the user are analytical, advertising and affiliation cookies, except for those of a technical nature and those that are necessary in order for the website to function or to provide services that are expressly requested by the user.",
+
+
+"separator3":"THIS IS JUST A SEPARATOR*******************RESULTS PAGE******************************",
+
+"results_home_title":"Crowdmapping results",
+"results_profile_title":"User options",
+"results_help_title":"Help",
+
+"temperature_title":"Temperature",
+"water_title":"Water",
+"wind_title":"Wind",
+"air_title":"Air",
+"soil_title":"Soil",
+
+"results_temperature_texta":"Comfortable during heat waves",
+"results_temperature_textb":"Negative effects during heat waves",
+"results_water_texta":"Low risk related to water",
+"results_water_textb":"High risk related to water",
+"results_wind_texta":"Low risk related to extreme winds",
+"results_wind_textb":"High risk related to extreme winds",
+"results_air_texta":"Good air quality ",
+"results_air_textb":"Air pollution",
+"results_soil_texta":"Proper soil management",
+"results_soil_textb":"Soil degradation",
+
+"results_home_text":"Click on a type of markers to make it visible on the map",
+
+"results_help_subtitle":"How to use this map",
+"results_help_text":"<p>1. This maps shows all the results of the crowdmapping.</p> <p>2. You can choose what layers of data you want so see on the map. Click on the given element in the sidebar - the button will change color and the point will be shown on the map. Click again to hide the points.</p><p>3. You can also click on the single point on the map and a popup will be shown with a more detailed description - if it was given by a contributor. All responses are anonymous.</p> <p>4. To contribute to this map please click on the Profile icon <i class=\"fa fa-user\"></i> and select <b><span> Go to editor and contribute! </span></b></p>",
+
+"pq1a1":"Trees and other green areas",
+"pq1a2":"Water bodies",
+"pq1a3":"Water devices",
+"pq1a4":"Devices or installations that give shade",
+"pq1a5":"Ventilation corridors",
+
+"pq2a1":"Water bodies and watercourses",
+"pq2a2":"Devices or installations capturing and/or storing water",
+"pq2a3":"Devices or installations of coastal and riparian zones",
+"pq2a4":"Natural areas",
+"pq2a5":"Agroforestry",
+
+"pq3a1":"Protection of buildings",
+"pq3a2":"Tree management",
+"pq3a3":"Solutions preventing wind erosion",
+"pq3a4":"Wind energy solutions",
+"pq3a5":"Early warning systems for wind",
+
+"pq4a1":"Trees and green areas",
+"pq4a2":"Devices or installations limiting the emission of pollutants",
+"pq4a3":"Low-emission heating of buildings",
+"pq4a4":"Policies and infrastructures reducing traffic from cars",
+"pq4a5":"Occurrence of air pollution emitters",
+
+"pq5a1":"Actions  against landslides",
+"pq5a2":"Actions increase permeable soil surfaces in cities",
+"pq5a3":"Sustainable agriculture techniques",
+
+
+"solutions_proposal":"Proposed solution:",
+
+"separator4":"THIS IS JUST A SEPARATOR*******************Crowdmapping PAGE**************************************************************",
+
+"map_home_title":"Crowdmapping",
+"map_profile_title":"User options",
+"map_help_title":"Help",
+
+"map_categories_intro":"There are five categories of climate change below. You can describe negative and positive phenomena. Find places on the map when you have observed those phenomena and mark them by adding points (1-5).</br> A more detailed description on how to use this tool can be found in the side bar under <i class=\"fa fa-question-circle\"></i>",
+
+
+"map_help_subtitle1":"How to contribute",
+"map_help_text1":"<p>1. Browse through categories of climate change (<b>Temperature / Water / Wind / Air / Soil</b>) in the first panel of the sidebar (<i class=\"fa fa-bars\"></i>) called <b>Crowdmapping</b>. There are two buttons in each category - one for positive (green icon) and one for negative aspects (red icon). Think about places in this region where you have observed those phenomena. </p><p>2. Select one button from the appropriate category. <b>Temperature</b> and <b>Comfortable during heat waves</b> is already selected when you open the map.</p><p>3. Move the map (click on the map and drag) and zoom it (mouse wheel or +/- icons) to the desired place. </p> <p>4. Click on the blue marker icon on the map and then click on the place to leave a point on the map. Try to be precise.</p> <p>5. After you click on the map there will be a window shown with a couple of questions. Please answer them as good as you can. You do not need to answer all of them. When you are ready click <b>Save</b>. The point will be added and map will refresh.</p><p>6. You will see only the points that you have added. To see what other have done go to he results map available in profile sidebar or from the main page.</p>",
+"map_help_subtitle2":"How to edit existing data",
+"map_help_text2":"<p> 1. You can edit the point that you have added previously. To do this select the category and button representing point you want to change. </p> <p>2. When you click on the point from the selected category you can edit all the answers you have given previously and save them once you will finish edits.</p><p> 3. The two icons on the map below marker icon allow you to further modify the points.The upper one allow you to drag markers and <b>change their position</b> . The lower one allow you to <b>delete</b> the marker.</p> <p>4. In both cases you need to click the <b>Save</b> option that will be visible beside the editing icons on the map to make changes permanent. </p>",
+"map_help_video1":"Video tutorial pt.1 - Basic functions",
+"map_help_video2":"Video tutorial pt.2 - Editing existing points",
+
+"logout":"Logout",
+"go_back":"Go back to main page",
+"go_editor":"Go to editor and contribute!",
+"go_results":"See what others have done!",
+"finish_main_page":"Finish and go to main page",
+"finish_logout":"Finish and logout",
+"save_button":"Save",
+"cancel_button":"Cancel",
+"restart_tutorial":"Restart introductory tutorial",
+"popup_edit_info":"To edit this point select appropriate layer from the sidebar.",
+"popup_intro":"If you can please provide answers for questions below. They are not required - you can just click green<b> SAVE</b> button at the bottom of this window", 
+
+
+"place_name_question":"How would you name this place?",
+
+"justification_positive_temperature":"Justification: During extreme heat waves I feel particularly comfortable here because of",
+"justification_negative_temperature":"Justification: During extreme heat waves I feel particularly uncomfortable here because of",
+"justification_positive_water":"Justification: This is a place where risks related to water are low because of:",
+"justification_negative_water":"Justification: This is a place where risks related to water are high because of:",
+"justification_positive_wind":"Justification: This is the place where the risk of negative effects of extreme winds is low because of:",
+"justification_negative_wind":"Justification: Justification: This is the place where the risk of negative effects of extreme winds is high because of:",
+"justification_positive_air":"Justification: The marked spot has a good air quality because of:",
+"justification_negative_air":"Justification: The marked spot has a bad air quality because of:",
+"justification_positive_soil":"Justification: This is a good example of soil management because…",
+"justification_negative_soil":"Justification: This is a bad example of soil management because…",
+
+
+"solutions_temperature":"Solutions: Please suggest what should/can be done here to limit the negative effects of heat waves [use maximum 150 characters with spaces]",
+"solutions_water":"Solutions: Please suggest what should/can be done to solve water issues in this place [use maximum 150 characters with spaces]",
+"solutions_wind":"Solutions: what should/can be done to prevent negative effects of extreme winds? [use maximum 150 characters with spaces]",
+"solutions_air":"Solutions: What can be done to improve the air quality in this spot [use maximum 150 characters with spaces]",
+"solutions_soil":"Solutions: What can be done to prevent soil degradation? What can be done to use soil against negative impact of climate change?  [use maximum 150 characters with spaces]",
+
+
+"likert1":"are non existent",
+"likert2":"are barely present",
+"likert3":"are present",
+"likert4":"are numerous",
+"likert5":"are very numerous",
+
+"likert1a":"is not organized/<br/>managed",
+"likert2a":"is poorly organized/<br/>managed",
+"likert3a":"is partly organized/<br/>managed",
+"likert4a":"is well organized/<br/>managed",
+"likert5a":"is very well organized/<br/>managed",
+
+"likert1b":"is ineffective (non-existent)",
+"likert2b":"is low effective",
+"likert3b":"is medium effective",
+"likert4b":"is effective",
+"likert5b":"is very effective",
+
+"likert1c":"are not introduced (non-existent)",
+"likert2c":"are poorly introduced",
+"likert3c":"are partly introduced",
+"likert4c":"are well introduced ",
+"likert5c":"are very well introduced",
+
+"likert1d":"are not implemented (non-existent)",
+"likert2d":"are poorly implemented",
+"likert3d":"are partly implemented",
+"likert4d":"are well introduced ",
+"likert5d":"are very well implemented",
+
+
+
+"other_reasons":"other reasons specific to this area (Please explain below what are they)",
+
+"q1a1":"trees and green areas (lawns, parks, bushes) that give shade",
+"q1a2":"water bodies (lakes, ponds), rivers, streams and other watercourses",
+"q1a3":"water devices (fountain, swimming pool, water curtain, other)",
+"q1a4":"devices or installations that give shade (umbrellas, temporary roofs, others)",
+"q1a5":"ventilation corridors",
+
+
+"q2a1":"water bodies and watercourses capturing and storing water",
+"q2a2":"devices or installations capturing and/or storing water (e.g. rainwater drainage, hydrating systems, dams)",
+"q2a3":"devices or installations of coastal and riparian zones (preventing erosions, floods) ",
+"q2a4":"natural areas protecting from sea rise/river flooding (e.g. permeable soils, forests) ",
+"q2a5":"agroforestry reducing the occurrence of draughts and improving water retention",
+
+"q3a1":"protection of buildings against wind damage",
+"q3a2":"tree management",
+"q3a3":"solutions preventing wind erosion (e.g. natural barriers, shelter belts) ",
+"q3a4":"promoted/visible wind energy solutions",
+"q3a5":"early warning systems for wind",
+
+"q4a1":"trees and green areas (e.g. lawns, parks, bushes)",
+"q4a2":"devices or installations limiting the emission of pollutants (barriers limiting the emission of dust from roads, filters on chimneys)",
+"q4a3":"modern, low-emission heating of buildings (connection to the heat and power plant, gas heating, use of renewable energy sources)",
+"q4a4":"policies and infrastructures reducing traffic from cars (public transport, bicycle roads, pedestrian zones, other)",
+"q4a5":"occurrence of air pollution emitters (roads and other sources of air pollution like farming or industrial pollutants emitters)",
+
+"q5a1":"actions  against landslides (tree planting for instance)",
+"q5a2":"actions increase permeable soil surfaces in cities (protecting from flooding or heat waves)",
+"q5a3":"sustainable agriculture techniques, e.g. rotation of cultures, organic farming, limited plowing",
+
+"why_selected":"This place was selected because:",
+"proposed_solution":"Proposed solution:",
+
+
+"intro_salutation2": "<b>Welcome to the TeRRIFICA crowd-mapping website. </b>",
+"intro_visible2": "<p>This website is built to collect your experiences and opinions where in your local environment climate change comes alive and is tangible. We invite you to put a mark in this interactive map of your region and ask you to explain why you decided to mark this place as good or bad.</p><p>TeRRIFICA is about listening to all different voices within the territorial ecosystem (not only researchers but also citizens, politicians, industry, teachers…) and co-create competence for this global problem. There are no right or wrong in your answers or opinions. They are your local, personal experiences of climate change.</p>",
+"intro_hidden2": "<p><b>And then? What happens after you put your mark?</b></p><p>We would like to stay in touch with you and discuss the information collected on this website. If you agree we will invite you and other participants to develop and talk over local or regional climate action plans for the marked climate trouble spots in the city. Together with you we will explore how tailored climate change adaptation measures can be implemented here. All future vision and activity shall be based on your ideas about what you sense as places where climate change can be locally observed or felt and what you think might be important for the future to mitigate these effects on the local level.</p><p>We are looking forward to jointly co-creating a climate friendly region.</p>",
+
+"draw_mode":"<b>DRAW MODE</b> </br> add points to the map",
+"edit_mode":"<b>EDIT MODE</b> </br> change existing points",
+
+"popup_justification":"The most important element(s) that determined the indication of this place:",
+
+"feedback_intro":"Help us improve this tool - give feedback and answer a few short questions below. Thank you!",
+"feedback_how_easy":"How easy was for you to use this mapping tool? Select one answer from the list below",
+"feedback_difficulty":"What was the main difficulty in adding places to the map?",
+"feedback_improve":"How do you propose we can improve this tool?",
+"feedback_thanks": "Thank you for filling out the questionnaire! We will use it to to improve the crowdmapping tool.",
+"save_feedback":"Send feedback",
+"skip_feedback":"Maybe later",
+"feedback_button":"I want to send feedback!",
+"feedback0":"Please select answer",
+"feedback1":"Very easy - I had no problems with adding the data",
+"feedback2":"Easy - There were only minor problems with adding the data",
+"feedback3":"Relatively easy - I had some problems but I've still maneged to add some data ",
+"feedback4":"Relatively difficult - It was hard for me to learn how to add some data",
+"feedback5":"Very difficult - I could not add any data",
+"modal_intro":"Thanks for indicating a place on the map! For finally adding it to the map, please – if possible – provide some more details about this place.  If you cannot or do not want to  - just click the SAVE button on the bottom of this window!",
+ 
+"dropdown1":"I cannot answer",
+"dropdown23":"There is nothing else important here",
+
+"intro_positive_temperature":"Justification: Please choose up to three items that make you feel comfortable here during heat waves ( your selection on first position is seen as the most important one for you):",
+"dropdownq1a1":"trees and green areas",
+"dropdownq1a2":"natural water areas (e.g. lakes, ponds, rivers, streams)",
+"dropdownq1a3":"water installations (e.g. fountains, swimming pools, water dispensers, irrigating/sprinkling systems)",
+"dropdownq1a4":"devices or installations that give shade/cover (sun umbrellas, roofs)",
+"dropdownq1a5":"fresh air flow",
+"other_temperature_positive":"Are there any other reasons you feel comfortable here when there is hot weather? (Please explain below what are they):",
+
+"intro_negative_temperature":"Justification: Please choose up to three items which  make this place uncomfortable during heat waves (your selection on first position is seen as the most important one for you ):",
+"dropdownq1b1":"lack of trees and green areas",
+"dropdownq1b2":"limited access to natural water areas (e.g. lakes, ponds, rivers, streams)",
+"dropdownq1b3":"insufficient number of installations (e.g. fountain, water dispensers, swimming pool)",
+"dropdownq1b4":"insufficient number of devices or installations  that give shade/cover (sun umbrellas, roofs)",
+"dropdownq1b5":"lack of fresh air flow",
+"other_temperature_negative":"Are there any other reasons you feel uncomfortable here when there is hot weather? (Please explain below what are they): ",
+"solutions_temperature2":"Solutions: Please suggest what should/can be done here to limit the negative effects of heat waves [use maximum 150 characters with spaces]",
+
+
+"intro_positive_water":"Justification: Please choose up to three items that make this place safe regarding to water related risks, e.g. droughts, flooding (your selection on first position is seen as the most important one for you):",
+"dropdownq2a1":"natural water bodies and watercourses capturing and storing water (e.g. ponds, creeks, ditches)",
+"dropdownq2a2":"tools or installations capturing and/or storing water (e.g. retention basins, rainwater drainage)",
+"dropdownq2a3":"devices or installations of coastal, riverside and shore zones preventing erosion, floods(e.g. dams, dykes/embankments, riverbed vegetation)",
+"dropdownq2a4":"natural areas protecting from sea rise/river flooding (e.g. permeable soils, forests)",
+"dropdownq2a5":"vegetation reducing the occurrence of draughts and improving water retention",
+"other_water_positive":"Are there any other reasons you feel there is low risk from water related events here? (Please explain below what are they):",
+
+"intro_negative_water":"Justification: Please choose up to three items which make this place unsafe regarding risks related to water, e.g. droughts, flooding (your selection on first position is seen as the most important one for you):",
+"dropdownq2b1":"insufficient number of water bodies and watercourses capturing and storing water",
+"dropdownq2b2":"limited access to tools or installations capturing and/or storing water (e.g. rainwater drainage, irrigating systems, dams)",
+"dropdownq2b3":"lack of devices or installations of coastal and riparian zones (preventing erosion, floods)",
+"dropdownq2b4":"limited access to natural areas protecting from sea rise/river flooding (e.g. permeable soils, forests)",
+"dropdownq2b5":"lack of vegetation reducing the occurrence of draughts and improving water retention",
+"other_water_negative":"Are there any other reasons you feel there is low risk from water related events here? (Please explain below what are they):",
+"solutions_water2":"Solutions: Please suggest what should/can be done here to limit the negative effects of water related events, e.g. droughts, flooding [use maximum 150 characters with spaces",
+
+"intro_positive_wind":"Justification: Please choose up to three items that make this place safe in relation to the occurrence of extreme winds (your selection on first position is seen as the most important one for you):",
+"dropdownq3a1":"protection against wind damage through buildings",
+"dropdownq3a2":"protection against wind damage through bushes, hedges, trees",
+"dropdownq3a3":"solutions preventing wind erosion (e.g. permanent vegetation, natural barriers, shelter belts)",
+"dropdownq3a4":"promoted/visible wind energy solutions",
+"dropdownq3a5":"wind event early warning systems",
+"other_wind_positive":"Are there any other reasons you feel there is a low risk of extreme winds here? (Please explain below what are they): ",
+
+"intro_negative_wind":"Justification: Please choose up to three items which make this place unsafe in relation to the occurrence of extreme winds (your selection on first position is seen as the most important one for you):",
+"dropdownq3b1":"insufficient protection against wind damage through buildings",
+"dropdownq3b2":"bad condition or missing of trees, bushes or hedges",
+"dropdownq3b3":"lack of solutions preventing wind erosion (e.g. natural barriers, shelter belts) ",
+"dropdownq3b4":"insufficiently promoted/visible wind energy solutions",
+"dropdownq3b5":"lack of wind event early warning systems",
+"other_wind_negative":"Are there any other reasons you feel there is low risk from water related events here? (Please explain below what are they):",
+"solutions_wind2":"Solutions: Please suggest what should/can be done here to limit the negative effects of water related events, e.g. droughts, flooding [use maximum 150 characters with spaces",
+
+"intro_positive_air":"Justification: Please choose up to three items that are responsible for good air quality in this place (your selection on first position is seen as the most important one for you ):",
+"dropdownq4a1":"trees and green areas",
+"dropdownq4a2":"devices or installations limiting the emission of pollutants (dust barriers, devices on chimneys)",
+"dropdownq4a3":"modern, low-emission heating of surrounding buildings (heating network, gas heating, renewable energy sources)",
+"dropdownq4a4":"policies and infrastructures reducing car traffic (public transport, bicycle roads, pedestrian zones)",
+"dropdownq4a5":"lack of air pollutants (traffic, farming or industrial pollutants)",
+"other_air_positive":"Are there any other reasons why air is clean here? (Please explain below what are they): ",
+
+"intro_negative_air":"Justification: Please choose up to three items which are responsible for air pollution/bad air quality in this place (your selection on first position is seen as the most important one for you):",
+"dropdownq4b1":"insufficient number of trees and green areas",
+"dropdownq4b2":"lack of devices or installations limiting the emission of pollutants (dust barriers, devices on chimneys)",
+"dropdownq4b3":"limited access to modern, low-emission heating of surrounding buildings (heating network, gas heating, renewable energy sources)",
+"dropdownq4b4":"insufficient number of policies and infrastructures reducing car traffic (public transport, bicycle roads, pedestrian zones)",
+"dropdownq4b5":"presence of air pollutants (traffic, farming or industrial pollutants)",
+"other_air_negative":"Are there any other reasons why air is polluted here? (Please explain below what are they): ",
+"solutions_air2":"Solutions: Please suggest what should/can be done here to limit the negative effects of air pollution [use maximum 150 characters with spaces]",
+
+"intro_positive_soil":"Justification: Please choose up to three items that make this place a good example of soil management/soil protection (your selection on first position is seen as the most important one for you):",
+"dropdownq5a1":"actions against soil erosion/ landslides (permanent vegetation, tree planting, balks, mid-field afforestation and bushes)",
+"dropdownq5a2":"actions for expansion of permeable soil surfaces in cities (protecting from flooding or heat waves)",
+"dropdownq5a3":"no sealed ground (parking lots, asphalt, concrete)",
+"dropdownq5a4":"sustainable agriculture techniques (crop rotation, organic farming, limited plowing, sustainable fertilisation)",
+"other_soil_positive":"Are there any other reasons that this place is a good example of soil management/soil protection? (Please explain below what are they): ",
+
+"intro_negative_soil":"ustification: Please choose up to three items which make this place a bad example of soil management/soil protection ( position 1 is the most important):",
+"dropdownq5b1":"lack of actions against soil erosion/landslides (tree planting, balks, mid-field afforestation and bushes ",
+"dropdownq5b2":"high level of sealed surfaces (parking lots, asphalt, concrete)",
+"dropdownq5b3":"insufficient number of actions for expansion of permeable soil surfaces in cities (protecting from flooding or heat waves)",
+"dropdownq5b4":"limited access to sustainable agriculture techniques, (crop rotation, organic farming, limited plowing, sustainable fertilisation)",
+"other_soil_negative":"Are there any other reasons that this place is a bad example of soil management/soil protection? (Please explain below what are they): ",
+"solutions_soil2":"Solutions: Please suggest what should/can be done here to prevent soil degradation [use maximum 150 characters with spaces]",
+
+"map_help_text1a":"<p>1. Browse through categories of climate change (<b>Temperature / Water / Wind / Air / Soil</b>) in the first panel of the sidebar (<i class=\"fa fa-bars\"></i>) called <b>Crowdmapping</b>. There are two buttons in each category - one for positive (green icon) and one for negative aspects (red icon). Think about places in this region where you have observed those phenomena. </p><p>2. Move the map (click on the map and drag) and zoom it (mouse wheel or +/- icons) to the desired place. Try to zoom as closely as it is convenient.</p> <p> 3. Select one button from the appropriate category. When a button is selected and you move cursor to the map a small icon will be attached to the cursor and you can now place it on the map wherever you wish. Try to be precise.  </p> <p>4. After you click on the map there will be a window shown with a couple of questions. Please answer them as good as you can. You do not need to answer all of them. When you are ready click <b>Save</b>. The point will be added and map will refresh.</p><p>6. You will see only the points that you have added. To see what other have done go to he results map available in profile sidebar or from the main page.</p>",
+"map_help_text2a":"<p> 1. You can edit the point that you have added previously. To do this first switch the mode to the EDIT MODE. The button for doing this is located in the bottom of the crowdmapping sidebar. </p> <p>2. After you switch to the EDIT mode you then must select the button representing category of points you want to change. </p><p> 3. When you click on the point from the selected category you can edit all the answers you have given previously and save them once you will finish edits.</p> <p>4. There will be also two additional buttons on the map below the zoom buttons. They allow you to further modify the points. The upper one allow you to drag markers and <b>change their position</b>. The lower one allow you to <b>delete</b> the marker. </p><p> 5. In both cases you need to click the <b>Save</b> option that will be visible beside the editing icons on the map to make changes permanent. </p>",
+
+"contact_button":"Contact Us!"
+
+}
