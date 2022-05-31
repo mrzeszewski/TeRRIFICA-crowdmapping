@@ -13,6 +13,8 @@ Through its co-creative multi-stakeholder approaches, participants had the oppor
 Main project website: https://terrifica.eu/
 Crowdmapping tool (English version) is available at the following address: http://climatemapping.terrifica.eu/
 
+![image](https://user-images.githubusercontent.com/10100274/171246165-6e482c26-6f5a-4271-bb97-1b5d42d07322.png)
+
 
 ## What is included in the repository
 
