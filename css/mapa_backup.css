@@ -1,0 +1,160 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Century Gothic';
+	background-color: #fcfcfc;	
+	min-width: 750px;
+}
+.header {
+	height: 10vh;
+	width: 100%;
+	border-bottom: 7px solid #febd01;
+	 overflow: scroll;
+
+}
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 100px;
+    z-index: 1;
+}
+.nag {
+	padding-top: 10px;
+	padding-left: 250px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #4a4a4a; 
+	text-align: left;
+
+}
+.container {
+    height: 100%;
+    background-color: #fff;
+/*    border-bottom: 7px solid #febd01;
+    border-top: 7px solid #bde247;*/
+    color: black;
+    overflow: auto; 
+}
+.left-sidebar {
+	padding: 10px 25px;
+	height: 100vh;
+	width: 305px;
+	float: left;
+	box-sizing: border-box;
+    overflow: auto;
+	background-color: #fcfcfc;
+	background: url('../grafika/terrifica_tlo_przycieta.jpg');    
+}
+.left-sidebar .nav ul {
+	margin: 0;
+	padding: 0;
+}
+.left-sidebar .nav ul li {
+	list-style: none;
+}
+.left-sidebar .nav ul li a {
+	display: inline-block;
+	width: 100%;
+	padding: 0px 10px 0px 10px;
+	box-sizing: border-box;
+	text-decoration: none;
+	color: white;
+}
+.left-sidebar .nav ul li a:hover {
+    background: white;
+    color: black;
+	cursor: pointer;
+}
+.main {
+/*	height: calc(100vh - 140px);
+*/	width: calc(100% - 305px);
+	min-height: 350px;
+	float: left;
+	box-sizing: border-box;
+	overflow: auto;
+}
+#map {
+    background-color: white;
+	height: 100vh;
+	z-index:1;
+}
+p {
+	font-size: 15px;
+}
+
+.bold {
+	font-weight: bold;
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+}
+.form {
+	margin: 0;
+	padding: 0;
+}
+.button {
+ 	display: inline-block;
+ 	width: 120px;
+ 	padding: 5px 10px;
+ 	font-size: 15px;
+ 	font-weight: bold;
+ 	cursor: pointer;
+ 	text-align: center;
+ 	outline: none;
+ 	color: #fff;
+ 	background-color: #bde247;
+	border: none;
+  	border-radius: 15px;
+}
+.button1 {
+ 	display: inline-block;
+ 	width: 90%;
+ 	padding: 5px;
+ 	font-size: 13px;
+ 	cursor: pointer;
+ 	text-align: left;
+ 	outline: none;
+ 	color: #4a4a4a;
+/* 	background-color: lightgrey;
+*/	border: none;
+  	border-radius: 10px;
+  	margin:2px;
+
+}
+.button1:hover {
+ 	background-color: grey;
+}
+.button2 {
+ 	display: inline-block;
+ 	width: 300px;
+ 	padding: 5px 10px;
+ 	font-size: 13px;
+ 	cursor: pointer;
+ 	text-align: left;
+ 	outline: none;
+ 	color: #4a4a4a;
+ 	background-color: rgba(254, 189, 1, 0.58);
+	border: none;
+  	border-radius: 15px;
+}
+.footer {
+	padding-top: 5px;
+	height: 2.6vh;
+	text-align: center;
+	font-size: 15px;
+    color: #4a4a4a;
+    border-top: 7px solid #bde247;
+}
+.button1 img {
+	vertical-align: middle;
+	width:30px;
+
+}
+.button1 span {
+	vertical-align: middle;
+
+}
+.button1:active {
+	background-color: darkgrey;
+
+}

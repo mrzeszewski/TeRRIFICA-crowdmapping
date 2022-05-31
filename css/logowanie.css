@@ -1,0 +1,99 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Century Gothic';
+	background-color: #fcfcfc;	
+	min-width: 400px;
+	height: 100%;
+	min-height: 650px;
+}
+html{
+	height:100%;
+}
+.header {
+	height: 10vh;
+	width: 100%;
+}
+
+.nag {
+	padding-top: 15px;
+	padding-left: 250px;
+	font-size: 25px;
+	font-weight: bold;
+	color: #4a4a4a; 
+}
+.container {
+    background-image: url('http://51.75.63.213/sandbox/grafika/terrifica_tlo.jpg');
+    color: white;
+    overflow: auto; 
+    background-color: #fcfcfc;
+    text-align: center;
+    height:100%;
+}
+.logowanie {
+	text-align: center;
+	font-weight: bold;
+}
+p {
+	font-size: 14px;
+}
+.bold {
+	font-weight: bold;
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+}
+.form {
+	margin: 0;
+	padding: 0;
+}
+input {
+ 	display: inline-block;
+ 	width: 180px;
+ 	padding: 5px 10px;
+ 	font-size: 16px;
+ 	
+ 	cursor: pointer;
+ 	text-align: center;
+ 	outline: none;
+ 	background-color: lightgrey;
+	border: 1px;
+  	border-radius: 5px;
+}
+h2 {
+	font-size: 16px;
+}
+.footer {
+	padding-top: 5px;
+	height: 2.6vh;
+	text-align: center;
+	font-size: 12px;
+	background-image: url('http://51.75.63.213/sandbox/grafika/logos.png');
+}
+.logo{
+	
+}
+#loga_partnerow{
+	margin-top:20px;
+	margin-bottom:0px;
+	background-color: white;
+	width: 100%;
+}
+.div-wrapper {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    min-height: 500px;
+}
+
+.div-wrapper #loga_partnerow {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+input[type=submit]{
+	background-color: #F0E68C;
+}
+form{
+
+}
