@@ -18,7 +18,7 @@ Crowdmapping tool (English version) is available at the following address: http:
 
 ## What is included in the repository
 
-### Software requierements
+## Software requierements
 
 - **PHP** - to manage database connection and authentication and server side translation using: **php-i18n** https://github.com/Philipp15b/php-i18n
 - **Leaflet** https://leafletjs.com/  - to display maps
@@ -27,7 +27,7 @@ Crowdmapping tool (English version) is available at the following address: http:
 - **Geoserver**: https://geoserver.org/ - to manage PostGIS database and WFS input and outputs
 - **jQuery.i18n** https://www.npmjs.com/package/@wikimedia/jquery.i18n - for Javascript translation
 
-## How to this framework
+## How to use this framework
 
 ## Adaptability of the framework
 
