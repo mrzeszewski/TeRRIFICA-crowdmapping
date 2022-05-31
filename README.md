@@ -18,11 +18,19 @@ Crowdmapping tool (English version) is available at the following address: http:
 
 ## What is included in the repository
 
-## What is need to use this framework
+## What is needed to use this framework
 
-## Software and skill requierements
+### Software and skill requierements
 
-## Adaptability of the frameworok
+- **PHP** - to manage database connection and authentication and server side translation using: **php-i18n** https://github.com/Philipp15b/php-i18n
+- **Leaflet** https://leafletjs.com/  - to display maps
+- **Leflet Draw** plugin: https://leaflet.github.io/Leaflet.draw/docs/leaflet-draw-latest.html - to enable adding points
+- **Leaflet-WFST** https://github.com/Flexberry/Leaflet-WFST - to manage transactional WFS (adding drawed points to database)
+- **Geoserver**: https://geoserver.org/ - to manage PostGIS database and WFS input and outputs
+- 
+- 
+
+## Adaptability of the framework
 
 
 
