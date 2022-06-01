@@ -48,7 +48,7 @@ The most straighforward way to use the framework is as follows:
 - Expose PostGIS layers through Geoserver
 - Change the names of the layers in map.php file (currently they are called q1a, q1b, q2a, q2b, etc...)
 - Change attribute names
-- Change geoserver address (cu
+- Change geoserver address (currently there is a placeholder GEOSERVER ADDRESS)
 
 ## Adaptability of the framework
 
