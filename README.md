@@ -22,9 +22,9 @@ This is a simplified version of the crowdmapping tool found at http://climatemap
 
 The main file is **map.php**. 
 
-Framework is based on using WFS-T service that is utilized to put user input into PostGIS database
+Framework is based on using WFS-T service that is utilized to put user input into PostGIS database, To streamline this we use excellent Leaflet-WFST library by Flexberry. Template include 10 predefined layer in 5 categories. Every layer has its own modal template for data input with predefinded list for user input as well as place for open answers. Every layer is user editable (user authentication is not provided but PHP Delight library is recomended). This is most probably a more complicated scenario that you will need for your project but you can add or delete layers at will.
 
-You can use it as a template for your own mapping project. its prepared for internalization making use if i18n libraries both server and client side. Both are needed to translate all editing tool.
+You can use it as a template for your own mapping project. its prepared for internalization making use if i18n libraries both server and client side. Both are needed to translate all editing tools.
 
 ![image](https://user-images.githubusercontent.com/10100274/171258273-e2d22c80-ea78-490b-a856-2642a3127ea7.png)
 
