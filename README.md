@@ -18,6 +18,14 @@ Crowdmapping tool (English version) is available at the following address: http:
 
 ## What is included in the repository
 
+This is a simplified version of the crowdmapping tool found at http://climatemapping.terrifica.eu/ It consists only of the mapping tool itself. The result page will be added in the future but this is a much simpler task, requiring only plain Leflet library. 
+
+The main file is **map.php**. 
+
+Framework is based on using WFS-T service that is utilized to put user input into PostGIS database
+
+You can use it as a template for your own mapping project. its prepared for internalization making use if i18n libraries both server and client side. Both are needed to translate all editing tool.
+
 ![image](https://user-images.githubusercontent.com/10100274/171258273-e2d22c80-ea78-490b-a856-2642a3127ea7.png)
 
 
@@ -28,6 +36,7 @@ Crowdmapping tool (English version) is available at the following address: http:
 - **Leflet Draw** plugin: https://leaflet.github.io/Leaflet.draw/docs/leaflet-draw-latest.html - to enable adding points
 - **Leaflet-WFST** https://github.com/Flexberry/Leaflet-WFST - to manage transactional WFS (adding drawed points to database)
 - **Geoserver**: https://geoserver.org/ - to manage PostGIS database and WFS input and outputs
+- **PostGIS** database
 - **jQuery.i18n** https://www.npmjs.com/package/@wikimedia/jquery.i18n - for Javascript translation
 
 ## How to use this framework
