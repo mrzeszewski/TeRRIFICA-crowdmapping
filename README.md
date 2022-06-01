@@ -26,6 +26,8 @@ Framework is based on using WFS-T service that is utilized to put user input int
 
 You can use it as a template for your own mapping project. its prepared for internalization making use if i18n libraries both server and client side. Both are needed to translate all editing tools.
 
+Be aware that icons are not provided due to copyright. You need to provide them in the  **ikony** folder
+
 ![image](https://user-images.githubusercontent.com/10100274/171258273-e2d22c80-ea78-490b-a856-2642a3127ea7.png)
 
 
@@ -41,7 +43,16 @@ You can use it as a template for your own mapping project. its prepared for inte
 
 ## How to use this framework
 
+The most straighforward way to use the framework is as follows:
+- Create a PostGIS database with point layer for each category of points
+- Expose PostGIS layers through Geoserver
+- Change the names of the layers in map.php file (currently they are called q1a, q1b, q2a, q2b, etc...)
+- Change attribute names
+- Change geoserver address (cu
+
 ## Adaptability of the framework
+
+Framework can be adapted for different scenarios. It already have  user interface that can be fully translated. One limitation is that it do not allows polygon creation. This need to be implemented separately.
 
 
 
